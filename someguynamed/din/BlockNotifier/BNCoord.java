@@ -1,7 +1,5 @@
 package someguynamed.din.BlockNotifier;
 
-import tconstruct.library.util.CoordTuple;
-
 public class BNCoord implements Comparable
 {
     public final int x;
